@@ -1,2 +1,2 @@
 # unitsBattle
-check the html
+check the read me
